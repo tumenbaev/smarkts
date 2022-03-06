@@ -1,0 +1,15 @@
+.container {
+  background-color: white;
+  width: 655px;
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 50px auto 0;
+  padding: 36px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  gap: 24px;
+}
+
+.main {
+  flex: 1;
+}

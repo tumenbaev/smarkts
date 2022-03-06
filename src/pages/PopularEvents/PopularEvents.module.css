@@ -1,0 +1,16 @@
+.caption {
+  margin-bottom: 8px;
+}
+
+.link {
+  color: inherit;
+  margin: 10px 0;
+  padding: 5px;
+  border: 1px solid darkgray;
+  display: block;
+}
+
+.link:hover {
+  color: inherit;
+  background-color: whitesmoke;
+}
